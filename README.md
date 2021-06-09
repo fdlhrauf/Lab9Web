@@ -46,6 +46,8 @@ Output About
 
 # Tugas
 
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
 Implementasikan konsep modularisasi padakode programpraktikum 8tentang database,sehingga setiap halamannya memiliki template tampilan yang sama.
 
 Membuat file footer.php untuk kemudian di masukan ke index dengan menggunakan require
